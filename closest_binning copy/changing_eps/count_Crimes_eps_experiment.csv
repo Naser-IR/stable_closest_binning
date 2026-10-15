@@ -1,6 +1,0 @@
-k,Epsilon,C_Threshold,DP_Time_Width,DP_Ans_Width,DP_Dist_Width,Graph_Time_Width,Graph_Ans_Width,Naive_Time_Width,Naive_Ans_Width,Naive_Dist_Width,DP_Time_Depth,DP_Ans_Depth,DP_Dist_Depth,Graph_Time_Depth,Graph_Ans_Depth,Naive_Time_Depth,Naive_Ans_Depth,Naive_Dist_Depth,DP_Time_Jenks,DP_Ans_Jenks,DP_Dist_Jenks,Graph_Time_Jenks,Graph_Ans_Jenks,Naive_Time_Jenks,Naive_Ans_Jenks,Naive_Dist_Jenks
-4,1.0,70000.0,0.006925,True,13.0,0.006643,True,0.013261,True,13.0,0.007279,True,15.0,0.006398,True,0.013773,True,15.0,0.006676,True,12.0,0.006451,True,0.012642,True,12.0
-4,2.0,140000.0,0.007953,True,13.0,0.007673,True,0.014466,True,13.0,0.007838,True,16.0,0.007751,True,0.015245,True,16.0,0.007717,True,12.0,0.007736,True,0.013979,True,12.0
-4,3.0,210000.0,0.009787,True,13.0,0.009464,True,0.016394,True,13.0,0.009707,True,15.0,0.009623,True,0.016629,True,15.0,0.009582,True,13.0,0.009565,True,0.01649,True,13.0
-4,4.0,280000.0,0.012029,True,15.0,0.012087,True,0.019649,True,15.0,0.011953,True,18.0,0.012152,True,0.020877,True,18.0,0.012176,True,15.0,0.012278,True,0.0196,True,15.0
-4,5.0,350000.0,0.014584,True,18.0,0.014939,True,0.023408,True,18.0,0.014541,True,21.0,0.014829,True,0.023867,True,21.0,0.014789,True,16.0,0.014398,True,0.022933,True,16.0

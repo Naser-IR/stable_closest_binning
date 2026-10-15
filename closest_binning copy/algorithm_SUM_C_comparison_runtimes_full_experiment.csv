@@ -1,6 +1,0 @@
-Agg_Func,k,Epsilon,C_Threshold,DP_Time_Width,DP_Ans_Width,DP_Dist_Width,Graph_Time_Width,Graph_Ans_Width,Naive_Time_Width,Naive_Ans_Width,Naive_Dist_Width
-SUM,5,3.0,123300456.0,0.195763,True,56.0,0.17571,True,15.141517,True,56.0
-SUM,5,3.0,183300456.0,0.171537,True,38.0,0.176267,True,6.882046,True,38.0
-SUM,5,3.0,243300456.0,0.169708,True,26.0,0.174778,True,2.213056,True,26.0
-SUM,5,3.0,303300456.0,0.175972,True,17.0,0.172883,True,0.554349,True,17.0
-SUM,5,3.0,363300456.0,0.176974,True,4.0,0.171404,True,0.173023,True,4.0
