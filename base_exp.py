@@ -60,7 +60,7 @@ def is_exact_match(returned_cut, base_cut):
 # Main Processing Loop
 # ==========================================
 def main_closest_comparison():
-    input_dir = "/Users/naserihab/Desktop/dataset-search/useddata/state_dataset_updated"
+    input_dir = "/useddata/state_dataset_updated"
     summary_output_file = "closest_stable_percentages_summary.csv"
     
     # --- Algorithm configuration (Static parameters) ---
